@@ -1,4 +1,4 @@
-# Data Science | Data Management | Machine Learning | Deep Learning | GIS Specialist
+# Data Scientist  GIS Specialist
 ### Education
 MIDS Berkeley
 ### Work Experience
